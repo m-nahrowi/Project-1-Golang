@@ -1,0 +1,62 @@
+[
+    {
+        "Nama": "Razan Ilyasa Santoso",
+        "Alamat": "Jl. Raya Ciputat No. 123, Jakarta Selatan",
+        "Pekerjaan": "Analyst Programmer",
+        "Alasan": "Ingin meningkatkan kemampuan pemrograman dan mendalami teknologi web"
+    },
+    {
+        "Nama": "Muhamad Nahrowi",
+        "Alamat": "Perumahan Green Garden Blok C2 No. 45, Bandung",
+        "Pekerjaan": "Software Engineer",
+        "Alasan": "Minat dalam pengembangan perangkat lunak dan ingin belajar lebih dalam tentang Go untuk aplikasi skala besar"
+    },
+    {
+        "Nama": "Muhammad Dermawan",
+        "Alamat": "Jl. Dukuh Kupang Timur XV No. 67, Surabaya",
+        "Pekerjaan": "UI/UX Designer",
+        "Alasan": "Ingin mengembangkan keterampilan desain UI/UX untuk mendukung karier di industri teknologi"
+    },
+    {
+        "Nama": "Agus Firmansyah Hidayat",
+        "Alamat": "Perumahan Taman Permata Indah Blok E3 No. 17, Medan",
+        "Pekerjaan": "Digital Marketing Specialist",
+        "Alasan": "Minat dalam pemasaran digital dan ingin mempelajari Golang untuk pengembangan aplikasi berbasis web"
+    },
+    {
+        "Nama": "Ikhsan Kurniawan",
+        "Alamat": "Kompleks Puri Indah Blok B2 No. 89, Yogyakarta",
+        "Pekerjaan": "Mobile App Developer",
+        "Alasan": "Memiliki pengalaman dalam pengembangan aplikasi mobile dan tertarik untuk mempelajari Golang sebagai alternatif pengembangan backend"
+    },
+    {
+        "Nama": "Septri Putra Wiarka",
+        "Alamat": "Jl. Melati No. 10, Malang",
+        "Pekerjaan": "Full Stack Developer",
+        "Alasan": "Memiliki minat dalam pengembangan web secara menyeluruh dari frontend hingga backend"
+    },
+    {
+        "Nama": "Nisa Fitri Amna",
+        "Alamat": "Perumahan Pondok Hijau Indah Blok F4 No. 22, Palembang",
+        "Pekerjaan": "Data Scientist",
+        "Alasan": "Ingin menggunakan Golang untuk analisis data dan pengembangan model machine learning"
+    },
+    {
+        "Nama": "Syahrul Asyura",
+        "Alamat": "Jl. Hasanuddin No. 5, Semarang",
+        "Pekerjaan": "System Administrator",
+        "Alasan": "Menggunakan Golang untuk otomatisasi tugas administratif dan manajemen sistem"
+    },
+    {
+        "Nama": "Muhammad Rifqi Setiawan",
+        "Alamat": "Perumahan Graha Indah Blok A6 No. 15, Makassar",
+        "Pekerjaan": "Network Engineer",
+        "Alasan": "Memiliki minat dalam pengembangan aplikasi berbasis jaringan dan ingin mempelajari Golang untuk pengembangan perangkat lunak jaringan"
+    },
+    {
+        "Nama": "Antoni Carla",
+        "Alamat": "Jl. Cendrawasih No. 30, Denpasar",
+        "Pekerjaan": "E-commerce Manager",
+        "Alasan": "Ingin memperluas pengetahuan teknis untuk mendukung pengembangan bisnis online"
+    }
+]
