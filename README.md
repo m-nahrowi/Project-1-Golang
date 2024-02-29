@@ -9,4 +9,4 @@ Contohnya, ketika kalian menjalankan perintah go run biodata.go 1 maka data yang
 *Alasan memilih kelas Golang Gunakanlah struct dan function untuk menampilkan data tersebut.
 
 
-###Kalian bisa menggunakan os.Args untuk mendapatkan argument pada terminal.PengumpulanCompress folder kode kalian menjadi file .zip dan upload kepada Google Classroom.
+### Kalian bisa menggunakan os.Args untuk mendapatkan argument pada terminal.PengumpulanCompress folder kode kalian menjadi file .zip dan upload kepada Google Classroom.
